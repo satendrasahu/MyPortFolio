@@ -1,0 +1,27 @@
+.ProjectDescription{
+    .link{
+        text-decoration: none;
+        text-align: center;
+        color: #a4acc4;
+    }
+}
+
+.textareadesc{
+    width: 98%;
+    background-color: inherit;
+    color: #a4acc4;
+    text-decoration: none;
+    border: 0ch; 
+    outline: none;
+    margin-top: 10px;
+}
+.textareadesc::-webkit-scrollbar{
+    width: 0px;
+}
+.textareadesc::-webkit-scrollbar-thumb{
+    background-color: #2e344e;
+    border-radius: 0px !important;
+}
+.textareadesc::-webkit-scrollbar-track{
+    background-color: #2e344e;
+}
